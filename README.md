@@ -62,10 +62,10 @@ def do_horo_every_day():
     ***
 ```
 
-Mailing at a certain time :
+Mailing at a certain time:
 
 ```python
-def do_schedule()::
+def do_schedule():
     ***
 ```
 
